@@ -1,6 +1,6 @@
-
+![Header](https://raw.githubusercontent.com/NadiraX/NadiraX/master/Wsz_header.jpg "Header")
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiraX)](https://github.com/NadiraX/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiraX)]
 
 
 ## 🔧 Technologies & Tools
