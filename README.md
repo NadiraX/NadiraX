@@ -1,7 +1,15 @@
 ![Header](https://raw.githubusercontent.com/NadiraX/NadiraX/master/Wsz_header.jpg "Header")
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiraX)]
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hello! 
+My name is Wojciech Szczepaniak. I am a software engineer looking for challenging problems to solve. My specialization is backend development with a strong emphasis on Domain Driven Design, Elixir/OTP principles, and modular software design.
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working at **[dietetyka_w_pigulce](https://www.instagram.com/dietetyka_w_pigulce/)** as **cofounder and webmaster**.
+- 🌱 I’m currently doing master degree at put poznań (data processing technologies).
+- 👯 I’m looking to collaborate on intresting python project.
+- 📫 How to reach me: ...
+   - E-mail: wszczepaniak978@gmail.com
+   - LinkedIn: [wojciechszczepaniak98](https://www.linkedin.com/in/wojciechszczepaniak98/)
+- ⚡ Fun fact: I love puzzle solving games and horror literature.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -20,14 +28,11 @@
 ![](https://img.shields.io/badge/Tools-GoogleCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AndMore-informational?style=flat&logoColor=white&color=2bbc8a)
 
-Here are some ideas to get you started:
+## &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/NadiraX/NadiraX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiraX&hide=javascript,php,html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/NadiraX/NadiraX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NadiraX&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
