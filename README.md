@@ -17,7 +17,6 @@ My name is Wojciech Szczepaniak. I am a software engineer looking for challengin
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-SciPy-informational?style=flat&logo=SciPy&logoColor=white&color=2bbc8a)
