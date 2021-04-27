@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/WojciechSzczepaniak/WojciechSzczepaniak/master/Wsz_header.jpg "Header")
-# <img src="https://raw.githubusercontent.com/WojciechSzczepaniak/WojciechSzczepaniak/master/wave.gif" width="20px"> Hello! 
+# <img src="https://raw.githubusercontent.com/WojciechSzczepaniak/WojciechSzczepaniak/master/source_hand.gif" width="40px"> Hello! 
 My name is Wojciech Szczepaniak. I am a software engineer looking for challenging problems to solve. My specialization is data analysis and visualisation.
 
 - 🔭 I’m currently working at **[dietetyka_w_pigulce](https://www.instagram.com/dietetyka_w_pigulce/)** as **cofounder and webmaster**.
