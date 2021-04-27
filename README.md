@@ -3,8 +3,8 @@
 My name is Wojciech Szczepaniak. I am a software engineer looking for challenging problems to solve. My specialization is data analysis and visualisation.
 
 - 🔭 I’m currently working at **[dietetyka_w_pigulce](https://www.instagram.com/dietetyka_w_pigulce/)** as **cofounder and webmaster**.
--  👨‍🎓I’m currently doing master degree at put poznań (data processing technologies).
-- 🌱I’m currently doing group project in python for **[IBM](https://www.ibm.com/pl-pl)** (Methods of assessing the diversity of data for different delta compression).
+-  👨‍🎓 Presently doing master degree at put poznań (data processing technologies).
+- 🌱 I’m currently doing group project in python for **[IBM](https://www.ibm.com/pl-pl)** (Methods of assessing the diversity of data for different delta compression).
 - 👯 I’m looking to collaborate on intresting python project.
 - 📫 How to reach me: ...
    - E-mail: wszczepaniak978@gmail.com
