@@ -8,7 +8,7 @@ My name is Wojciech Szczepaniak. I am a software engineer looking for challengin
 - 👯 I’m looking to collaborate on intresting python project.
 - 📫 How to reach me: ...
    - E-mail: wszczepaniak978@gmail.com
-   - LinkedIn: [wojciechszczepaniak98](https://www.linkedin.com/in/wojciechszczepaniak98/)
+   - LinkedIn: [wojciechszczepaniak98](https://www.linkedin.com/in/wojciech-szczepaniak-820125211/)
 - ⚡ Fun fact: I love puzzle solving games and horror literature.
 
 ## 🔧 Technologies & Tools
