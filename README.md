@@ -4,8 +4,8 @@ My name is Wojciech Szczepaniak. I am a software engineer looking for challengin
 
 - 🔭 I’m currently working at **[dietetyka_w_pigulce](https://www.instagram.com/dietetyka_w_pigulce/)** as **webmaster**.
 -  👨‍🎓 Presently doing master degree at put poznań (data processing technologies).
-- 🌱 I’m currently doing group project in python for **[IBM](https://www.ibm.com/pl-pl)** (Methods of assessing the diversity of data for different delta compression).
-- 👯 I’m looking to collaborate on intresting python project.
+- 🌱 I just finished doing group project in python for **[IBM](https://www.ibm.com/pl-pl)** (Methods of assessing the diversity of data for different delta compression).
+- 👯 I’m looking to collaborate on intresting python or big data project.
 - 📫 How to reach me: ...
    - E-mail: wszczepaniak978@gmail.com
    - LinkedIn: [wojciechszczepaniak98](https://www.linkedin.com/in/wojciech-szczepaniak-820125211/)
