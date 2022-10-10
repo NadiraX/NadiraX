@@ -1,11 +1,11 @@
 ![Header](https://raw.githubusercontent.com/WojciechSzczepaniak/WojciechSzczepaniak/master/Wsz_header.jpg "Header")
 # <img src="https://raw.githubusercontent.com/WojciechSzczepaniak/WojciechSzczepaniak/master/source_hand.gif" width="40px"> Hello! 
-My name is Wojciech Szczepaniak. I am a software engineer looking for challenging problems to solve. My specialization is data analysis and visualisation.
+My name is Wojciech Szczepaniak. I am a software engineer looking for challenging problems to solve.
 
 - 🔭 I’m currently working at **[dietetyka_w_pigulce](https://www.instagram.com/dietetyka_w_pigulce/)** as **webmaster**.
--  👨‍🎓 Presently doing master degree at put poznań (data processing technologies).
-- 🌱 I just finished doing group project in python for **[IBM](https://www.ibm.com/pl-pl)** (Methods of assessing the diversity of data for different delta compression).
-- 👯 I’m looking to collaborate on intresting python or big data project.
+-  👨‍🎓 I just finished master degree at put poznań (data processing technologies).
+- 🌱 I just finished doing master thesis in python for **[IBM](https://www.ibm.com/pl-pl)** (Experimental evaluation of delta compression for the row data representation, in the implementation Apache Arrow).
+- 👯 I’m looking to collaborate on intresting project.
 - 📫 How to reach me: ...
    - E-mail: wszczepaniak978@gmail.com
    - LinkedIn: [wojciechszczepaniak98](https://www.linkedin.com/in/wojciech-szczepaniak-820125211/)
